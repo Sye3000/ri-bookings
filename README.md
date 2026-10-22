@@ -1,4 +1,4 @@
-# Richfield Booking Management System
+# RI Booking Management System
 
 A desktop booking application built with **Python**, **Tkinter**, and
 **SQLite**. It manages campus resources and bookings and applies rules
@@ -114,7 +114,7 @@ python3 -m py_compile main.py gui.py database.py models.py rules.py stage1.py
 
 ## Database and demo accounts
 
-The application uses a local SQLite database file named `richfield.db`.
+The application uses a local SQLite database file named `ri.db`.
 If that file is included, it may contain development/demo data and
 accounts.
 
